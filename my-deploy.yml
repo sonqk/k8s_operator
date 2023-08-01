@@ -1,0 +1,5 @@
+apiVersion: quachson.me/v1
+kind: MyResource
+metadata:
+  name: my-app-1
+replica: 2
